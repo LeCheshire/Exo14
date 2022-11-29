@@ -14,3 +14,11 @@ section:nth-child(4) span ,section:nth-child(4) strong,section:nth-child(4) u{
 section:nth-child(5) div ,section:nth-child(5) h5,section:nth-child(5) p{
     display: inline-block;
 }
+.squarre.red{
+    display: flex;
+    float:right;
+}
+.squarre.green{
+    display: flex;
+    float:left;
+}
